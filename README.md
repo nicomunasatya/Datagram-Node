@@ -5,7 +5,7 @@
 Before running the node, you need to register an account and obtain your API Key.
 
 1. Visit the registration page:  
-    **[https://dashboard.datagram.network](https://dashboard.datagram.network?ref=183927107)**
+    **[https://dashboard.datagram.network](https://dashboard.datagram.network?ref=354472734)**
 
 2. Sign up using your **email address**.
 
